@@ -1,9 +1,2 @@
 language: node_js
 node_js: node
-deploy:https://immense-mesa-61306.herokuapp.com
-  provider: heroku
-  api_key:
-    secure: 9gpsSQpeNuhcemnD4QonKseMxpM9tbofT5le+gcPz4mhL7itQPzDWL8ijxg7Fq+HWQOX3HRACKPgeSBQ3UaxA4T5Zj5MmVvcmDsvfAyXsltnoM0XduXJO5f/H/LP3P3ayOhzW2Nb5jaSb20w3Ef7lzaJHuzfvCFqKFB6WaV5q/Q7T02zV+YW3RQeMNbAOvCcXy5CxzdHyBx9w9z/+6CISvfCKtaIAH0LL1rjM2SAWRuQx4iiKZcYgKM40nAZ5IuhQ6FlwG0JteZ7oi5qUko2yEkkYCe7YqHI74e+7Ui1so6q/qP04gbC5qnnOlzemzsvfk8Fz6ObnhivBbgZrVXCJbytV07GrJPNM6IXcS+JuwEQ7Aoei49K1LebiJQwmK/R794jkKPMpzv3MdSkRy9u8tDtOHXSrEIm/YXDEiamyyjtnrLFkssTyezIzJgBmEXhMaFzT4u2S6nFyys4kaVHPmMQFP2YzMh0qWi0Jz54fEBMKpiwguXwZb2asawP9KQn9HEj1Pz+FFe/lLiPa/h27L3aoDgF7nOPSX1eTmBXcDQjsIwYQLT7XpBbLdnx8JvGJY2kkKx5uqmrNW3EsEH724vSeITEndEDYXpHJqQtmxlyZTupX6U4Qjq5Dcqz12v/0RXdo3LpTI7lHltAW9qHzUGkBbqK/EX4ljqeL1WCEJQ=
-  app: node-shopping-list-integration-tests
-  on:
-    repo: nidhin28/node-shopping-list-integration-tests
