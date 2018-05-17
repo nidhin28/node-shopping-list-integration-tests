@@ -1,2 +1,9 @@
 language: node_js
 node_js: node
+deploy: peaceful-anchorage-11612
+  provider: heroku
+  api_key:
+    secure: YXqrxyn4+q4ygDgcSrqtZ2FtUC/EjyHcClmqtJfJSFNHgnEH5vwurdQ0tfMYyQ31qkE6l7y+zuXapA1H8a4LBmxSTYb2E1w/RJIpDdZ5RLk1YqZMPNpxPtaWH1Zpcb09A8UcAOUXg34oNnRVxuuov9hxPboGohUMA/44QqK4PaYEyn/Trm2ZiXd8tnn8NpZyLTKCA2cU2Fawy+jHtmfvM4wnG69MOtnX+Rn575axo3lNBp/N8klllbO1ZM4Mft4OXxlz5Auwlpwk+M1XrLhbqt8+RZOSO0I+T3x/ih2IYMPtil1zBxCfwaFs5+NNhuWZ4TcXLgXd6AGPYKPcI1uPUzFGI0a/1aRfoi5ej6UNEFdexe8oC1kjGqpsYW3jaKLInSX6YTaHQMn1mwPpNJkDHK26swZLUbbwgKDnO+4M1Pb8pDcIimMfbfD5uNGxePuHBUKkfbdaOCAVOGENDGaQycfVv91HhCh6gHiImZbsDRReI8TQpBUn+gPkq/GJBUYsund6FRDt/tP6MxNa/WUYyowCXN7p0rBzMsTYU65dmiXjtLcuxQPcIlgpTbW8sA5LT9WbfiFd0I0MpFRDChRaq6XAm0Eyt+7LinbgsWa7dNRe7ew3oRMxmKNdR813lJDtCoxP6YnFcYf88Ws5pHUYEZDsiIUvPaMOWCiNraUi5fY=
+  app: immense-mesa-61306
+  on:
+    repo: nidhin28/node-shopping-list-integration-tests
